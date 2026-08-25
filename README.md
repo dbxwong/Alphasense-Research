@@ -4,6 +4,7 @@ Designed for repeatable market, customer and competitive landscape research for 
 
 Use this as **one context block + four research modules + one optional synthesis module**, rather than a single mega-prompt. The rationale is included at the end.
 
+original author: Bryan Wong/EDB 
 ---
 
 # Step 0 — Engagement Context
